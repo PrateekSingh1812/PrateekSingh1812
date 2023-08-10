@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/2770cb93e25ba3e15252be2731557b4365b1224da5fce00750570fc5b22d9441/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateeksingh1812&label=Profile%20views&color=0e75b6&style=flat" alt="prateeksingh1812" /> </p>
 
