@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **prateek9839052395@gmail.com**
+- 📫 How to reach me **[prateek9839052395@gmail.com](https://prateek-singh.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
